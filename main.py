@@ -73,5 +73,3 @@ while coffee_machine:
                 print('Not enough $$$')
 
 
-
-
